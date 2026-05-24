@@ -1,0 +1,192 @@
+{
+    "name": "nsp",
+    "description": "What might he be thinkin of 🤔",
+    "authors": [
+        {
+            "name": "nullà",
+            "id": "nulla.img"
+        }
+    ],
+    "semanticColors": {
+        "TEXT_DEFAULT": [
+            "#9d00ff"
+        ],
+        "TEXT_STRONG": [
+            "#9d00ff"
+        ],
+        "TEXT_SUBTLE": [
+            "#9d00ff"
+        ],
+        "TEXT_MUTED": [
+            "#7b0a8a"
+        ],
+        "TEXT_LINK": [
+            "#9d00ff"
+        ],
+        "TEXT_FEEDBACK_CRITICAL": [
+            "#7b0a8a"
+        ],
+        "TEXT_STATUS_DND": [
+            "#7b0a8a"
+        ],
+        "MOBILE_TEXT_HEADING_PRIMARY": [
+            "#9d00ff"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#9d00ff"
+        ],
+        "INTERACTIVE_TEXT_ACTIVE": [
+            "#62FF00"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#54065e"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#9d00ff"
+        ],
+        "INTERACTIVE_BACKGROUND_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "transparent"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#000000"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_SCRIM": [
+            "#000000"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#1a1a1a"
+        ],
+        "BACKGROUND_MOD_STRONG": [
+            "#4c007f"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#4c007f"
+        ],
+        "PANEL_BG": [
+            "#000000"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000000"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#000000"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#000000"
+        ],
+        "EMBED_BACKGROUND": [
+            "#000000"
+        ],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#000000"
+        ],
+        "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+            "#000000"
+        ],
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#4c007f"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#4c007f"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#9d00ff"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#9d00ff"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#4c007f"
+        ],
+        "CHANNEL_ICON": [
+            "#9d00ff"
+        ],
+        "BORDER_MUTED": [
+            "#9d00ff"
+        ],
+        "BORDER_SUBTLE": [
+            "#9d00ff"
+        ],
+        "BORDER_STRONG": [
+            "#9d00ff"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#9d00ff"
+        ]
+    },
+    "rawColors": {
+        "PLUM_1": "#9d00ff",
+        "PLUM_3": "#9d00ff",
+        "PLUM_6": "#9d00ff",
+        "PLUM_9": "#7b0a8a",
+        "PLUM_10": "#7b0a8a",
+        "PLUM_11": "#000000",
+        "PLUM_13": "#000000",
+        "PLUM_14": "#4c007f",
+        "PLUM_15": "#4c007f",
+        "PLUM_16": "#9d00ff",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_23": "#000000",
+        "PLUM_24": "#000000",
+        "PRIMARY_230": "#9d00ff",
+        "PRIMARY_300": "#9d00ff",
+        "PRIMARY_400": "#9d00ff",
+        "PRIMARY_500": "#9d00ff",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#9d00ff",
+        "BRAND_360": "#9d00ff",
+        "BRAND_500": "#9d00ff",
+        "BRAND_560": "#9d00ff",
+        "GREEN_360": "#9d00ff",
+        "GREEN_430": "#9d00ff",
+        "GREEN_460": "#7b0a8a",
+        "RED_400": "#9d00ff",
+        "RED_430": "#54065e",
+        "RED_460": "#7b0a8a",
+        "BLUE_345": "#9d00ff",
+        "WHITE_500": "#9d00ff",
+        "BLACK_500": "#000000"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/nulla-img/NCRVDCLTH/refs/heads/main/background.png", 
+        "alpha": 0.5
+    },
+    "spec": 2
+}
