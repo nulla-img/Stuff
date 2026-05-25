@@ -18,16 +18,16 @@
             "#9d00ff"
         ],
         "TEXT_MUTED": [
-            "#7b0a8a"
+            "#ff0000"
         ],
         "TEXT_LINK": [
             "#9d00ff"
         ],
         "TEXT_FEEDBACK_CRITICAL": [
-            "#7b0a8a"
+            "#ff0000"
         ],
         "TEXT_STATUS_DND": [
-            "#7b0a8a"
+            "#ff0000"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
             "#9d00ff"
@@ -36,10 +36,10 @@
             "#9d00ff"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
-            "#62FF00"
+            "#ff0000"
         ],
         "INTERACTIVE_MUTED": [
-            "#54065e"
+            "#ff0000"
         ],
         "INTERACTIVE_ICON_DEFAULT": [
             "#9d00ff"
@@ -69,7 +69,7 @@
             "#000000"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#1a1a1a"
+            "#ff0000"
         ],
         "BACKGROUND_MOD_STRONG": [
             "#4c007f"
@@ -148,7 +148,7 @@
         "PLUM_1": "#9d00ff",
         "PLUM_3": "#9d00ff",
         "PLUM_6": "#9d00ff",
-        "PLUM_9": "#9d00ff",
+        "PLUM_9": "#ff0000",
         "PLUM_10": "#4c007f",
         "PLUM_11": "#000000",
         "PLUM_13": "#000000",
@@ -175,10 +175,10 @@
         "BRAND_560": "#9d00ff",
         "GREEN_360": "#9d00ff",
         "GREEN_430": "#9d00ff",
-        "GREEN_460": "#7b0a8a",
+        "GREEN_460": "#ff0000",
         "RED_400": "#9d00ff",
-        "RED_430": "#54065e",
-        "RED_460": "#7b0a8a",
+        "RED_430": "#ff0000",
+        "RED_460": "#ff0000",
         "BLUE_345": "#9d00ff",
         "WHITE_500": "#9d00ff",
         "BLACK_500": "#000000"
